@@ -1,6 +1,8 @@
 
 ##### SHOW RESULTS AND GRAPHICS #####
-<img src="images/graphics1.png" width="450px"></a>
+<img src="images/graphics1.png" width="850px"></a>
+<img src="images/graphics2.png" width="850px"></a>
+<img src="images/sheet.png" width="850px"></a>
 
 #button insert to send to spreadsheet
 
