@@ -1,5 +1,6 @@
 
 ##### SHOW RESULTS AND GRAPHICS #####
+<img src="images/graphics1.png" width="450px"></a>
 
 #button insert to send to spreadsheet
 
